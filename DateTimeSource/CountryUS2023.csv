@@ -1,0 +1,14 @@
+Date,LocalName,Name,CountryCode,Fixed,Global,LaunchYear,Type,Counties
+2023-01-02,New Year's Day,New Year's Day,US,False,True,,Public,
+2023-01-16,"Martin Luther King, Jr. Day","Martin Luther King, Jr. Day",US,False,True,,Public,
+2023-02-20,Presidents Day,Washington's Birthday,US,False,True,,Public,
+2023-04-07,Good Friday,Good Friday,US,False,False,,Public,"US-CT,US-DE,US-HI,US-IN,US-KY,US-LA,US-NC,US-ND,US-NJ,US-TN"
+2023-04-07,Good Friday,Good Friday,US,False,False,,Optional,US-TX
+2023-05-29,Memorial Day,Memorial Day,US,False,True,,Public,
+2023-06-19,Juneteenth,Juneteenth,US,False,True,2021,Public,
+2023-07-04,Independence Day,Independence Day,US,False,True,,Public,
+2023-09-04,Labor Day,Labour Day,US,False,True,,Public,
+2023-10-09,Columbus Day,Columbus Day,US,False,False,,Public,"US-AL,US-AZ,US-CO,US-CT,US-DC,US-GA,US-ID,US-IL,US-IN,US-IA,US-KS,US-KY,US-LA,US-ME,US-MD,US-MA,US-MS,US-MO,US-MT,US-NE,US-NH,US-NJ,US-NM,US-NY,US-NC,US-OH,US-OK,US-PA,US-RI,US-SC,US-TN,US-UT,US-VA,US-WV"
+2023-11-10,Veterans Day,Veterans Day,US,False,True,,Public,
+2023-11-23,Thanksgiving Day,Thanksgiving Day,US,False,True,1863,Public,
+2023-12-25,Christmas Day,Christmas Day,US,False,True,,Public,

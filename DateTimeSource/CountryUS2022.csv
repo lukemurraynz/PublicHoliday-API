@@ -1,0 +1,14 @@
+Date,LocalName,Name,CountryCode,Fixed,Global,LaunchYear,Type,Counties
+2021-12-31,New Year's Day,New Year's Day,US,False,True,,Public,
+2022-01-17,"Martin Luther King, Jr. Day","Martin Luther King, Jr. Day",US,False,True,,Public,
+2022-02-21,Presidents Day,Washington's Birthday,US,False,True,,Public,
+2022-04-15,Good Friday,Good Friday,US,False,False,,Public,"US-CT,US-DE,US-HI,US-IN,US-KY,US-LA,US-NC,US-ND,US-NJ,US-TN"
+2022-04-15,Good Friday,Good Friday,US,False,False,,Optional,US-TX
+2022-05-30,Memorial Day,Memorial Day,US,False,True,,Public,
+2022-06-20,Juneteenth,Juneteenth,US,False,True,2021,Public,
+2022-07-04,Independence Day,Independence Day,US,False,True,,Public,
+2022-09-05,Labor Day,Labour Day,US,False,True,,Public,
+2022-10-10,Columbus Day,Columbus Day,US,False,False,,Public,"US-AL,US-AZ,US-CO,US-CT,US-DC,US-GA,US-ID,US-IL,US-IN,US-IA,US-KS,US-KY,US-LA,US-ME,US-MD,US-MA,US-MS,US-MO,US-MT,US-NE,US-NH,US-NJ,US-NM,US-NY,US-NC,US-OH,US-OK,US-PA,US-RI,US-SC,US-TN,US-UT,US-VA,US-WV"
+2022-11-11,Veterans Day,Veterans Day,US,False,True,,Public,
+2022-11-24,Thanksgiving Day,Thanksgiving Day,US,False,True,1863,Public,
+2022-12-26,Christmas Day,Christmas Day,US,False,True,,Public,

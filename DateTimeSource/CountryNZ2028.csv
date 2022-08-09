@@ -1,0 +1,24 @@
+Date,LocalName,Name,CountryCode,Fixed,Global,LaunchYear,Type,Counties
+2028-01-03,New Year's Day,New Year's Day,NZ,False,True,,Public,
+2028-01-04,Day after New Year's Day,Day after New Year's Day,NZ,False,True,,Public,
+2028-01-24,Wellington Anniversary Day,Wellington Anniversary Day,NZ,False,False,,Public,"NZ-WGN,NZ-MWT"
+2028-01-31,Auckland/Northland Anniversary Day,Auckland Anniversary Day,NZ,False,False,,Public,"NZ-AUK,NZ-NTL,NZ-MWT,NZ-WKO,NZ-GIS,NZ-BOP,NZ-HKB"
+2028-01-31,Nelson Anniversary Day,Nelson Anniversary Day,NZ,False,False,,Public,NZ-NSN
+2028-02-07,Waitangi Day,Waitangi Day,NZ,False,True,,Public,
+2028-03-13,Taranaki Anniversary Day,Taranaki Anniversary Day,NZ,False,False,,Public,NZ-TKI
+2028-03-20,Otago Anniversary Day,Otago Anniversary Day,NZ,False,False,,Public,NZ-OTA
+2028-04-14,Good Friday,Good Friday,NZ,False,True,,Public,
+2028-04-17,Easter Monday,Easter Monday,NZ,False,True,,Public,
+2028-04-18,Southland Anniversary Day,Southland Anniversary Day,NZ,False,False,,Public,NZ-STL
+2028-04-25,Anzac Day,Anzac Day,NZ,False,True,,Public,
+2028-06-05,Queen's Birthday,Queen's Birthday,NZ,False,True,,Public,
+2028-07-14,Matariki,Matariki,NZ,False,True,,Public,
+2028-09-25,Dominion Day,Canterbury (South) Anniversary Day,NZ,False,False,,Public,NZ-CAN
+2028-10-20,Hawke's Bay Anniversary Day,Hawke's Bay Anniversary Day,NZ,False,False,,Public,NZ-HKB
+2028-10-23,Labour Day,Labour Day,NZ,False,True,,Public,
+2028-10-30,Marlborough Anniversary Day,Marlborough Anniversary Day,NZ,False,False,,Public,NZ-MBH
+2028-11-17,Canterbury (North & Central) Anniversary Day,Canterbury Anniversary Day,NZ,False,False,,Public,NZ-CAN
+2028-11-27,Chatham Islands Anniversary Day,Chatham Islands Anniversary Day,NZ,False,False,,Public,NZ-CIT
+2028-12-04,Westland Anniversary Day,Westland Anniversary Day,NZ,False,False,,Public,NZ-WTC
+2028-12-25,Christmas Day,Christmas Day,NZ,False,True,,Public,
+2028-12-26,Boxing Day,Boxing Day,NZ,False,True,,Public,

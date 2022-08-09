@@ -1,0 +1,14 @@
+Date,LocalName,Name,CountryCode,Fixed,Global,LaunchYear,Type,Counties
+2027-01-01,New Year's Day,New Year's Day,US,False,True,,Public,
+2027-01-18,"Martin Luther King, Jr. Day","Martin Luther King, Jr. Day",US,False,True,,Public,
+2027-02-15,Presidents Day,Washington's Birthday,US,False,True,,Public,
+2027-03-26,Good Friday,Good Friday,US,False,False,,Public,"US-CT,US-DE,US-HI,US-IN,US-KY,US-LA,US-NC,US-ND,US-NJ,US-TN"
+2027-03-26,Good Friday,Good Friday,US,False,False,,Optional,US-TX
+2027-05-31,Memorial Day,Memorial Day,US,False,True,,Public,
+2027-06-18,Juneteenth,Juneteenth,US,False,True,2021,Public,
+2027-07-05,Independence Day,Independence Day,US,False,True,,Public,
+2027-09-06,Labor Day,Labour Day,US,False,True,,Public,
+2027-10-11,Columbus Day,Columbus Day,US,False,False,,Public,"US-AL,US-AZ,US-CO,US-CT,US-DC,US-GA,US-ID,US-IL,US-IN,US-IA,US-KS,US-KY,US-LA,US-ME,US-MD,US-MA,US-MS,US-MO,US-MT,US-NE,US-NH,US-NJ,US-NM,US-NY,US-NC,US-OH,US-OK,US-PA,US-RI,US-SC,US-TN,US-UT,US-VA,US-WV"
+2027-11-11,Veterans Day,Veterans Day,US,False,True,,Public,
+2027-11-25,Thanksgiving Day,Thanksgiving Day,US,False,True,1863,Public,
+2027-12-24,Christmas Day,Christmas Day,US,False,True,,Public,

@@ -1,0 +1,24 @@
+Date,LocalName,Name,CountryCode,Fixed,Global,LaunchYear,Type,Counties
+2022-01-03,New Year's Day,New Year's Day,NZ,False,True,,Public,
+2022-01-04,Day after New Year's Day,Day after New Year's Day,NZ,False,True,,Public,
+2022-01-24,Wellington Anniversary Day,Wellington Anniversary Day,NZ,False,False,,Public,"NZ-WGN,NZ-MWT"
+2022-01-31,Auckland/Northland Anniversary Day,Auckland Anniversary Day,NZ,False,False,,Public,"NZ-AUK,NZ-NTL,NZ-MWT,NZ-WKO,NZ-GIS,NZ-BOP,NZ-HKB"
+2022-01-31,Nelson Anniversary Day,Nelson Anniversary Day,NZ,False,False,,Public,NZ-NSN
+2022-02-07,Waitangi Day,Waitangi Day,NZ,False,True,,Public,
+2022-03-14,Taranaki Anniversary Day,Taranaki Anniversary Day,NZ,False,False,,Public,NZ-TKI
+2022-03-21,Otago Anniversary Day,Otago Anniversary Day,NZ,False,False,,Public,NZ-OTA
+2022-04-15,Good Friday,Good Friday,NZ,False,True,,Public,
+2022-04-18,Easter Monday,Easter Monday,NZ,False,True,,Public,
+2022-04-19,Southland Anniversary Day,Southland Anniversary Day,NZ,False,False,,Public,NZ-STL
+2022-04-25,Anzac Day,Anzac Day,NZ,False,True,,Public,
+2022-06-06,Queen's Birthday,Queen's Birthday,NZ,False,True,,Public,
+2022-06-24,Matariki,Matariki,NZ,False,True,,Public,
+2022-09-26,Dominion Day,Canterbury (South) Anniversary Day,NZ,False,False,,Public,NZ-CAN
+2022-10-21,Hawke's Bay Anniversary Day,Hawke's Bay Anniversary Day,NZ,False,False,,Public,NZ-HKB
+2022-10-24,Labour Day,Labour Day,NZ,False,True,,Public,
+2022-10-31,Marlborough Anniversary Day,Marlborough Anniversary Day,NZ,False,False,,Public,NZ-MBH
+2022-11-11,Canterbury (North & Central) Anniversary Day,Canterbury Anniversary Day,NZ,False,False,,Public,NZ-CAN
+2022-11-28,Chatham Islands Anniversary Day,Chatham Islands Anniversary Day,NZ,False,False,,Public,NZ-CIT
+2022-11-28,Westland Anniversary Day,Westland Anniversary Day,NZ,False,False,,Public,NZ-WTC
+2022-12-26,Christmas Day,Christmas Day,NZ,False,True,,Public,
+2022-12-26,Boxing Day,Boxing Day,NZ,False,True,,Public,

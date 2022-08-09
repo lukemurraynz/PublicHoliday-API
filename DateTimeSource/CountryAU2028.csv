@@ -1,0 +1,22 @@
+Date,LocalName,Name,CountryCode,Fixed,Global,LaunchYear,Type,Counties
+2028-01-01,New Year's Day,New Year's Day,AU,True,True,,Public,
+2028-01-26,Australia Day,Australia Day,AU,False,True,,Public,
+2028-03-06,Labour Day,Labour Day,AU,False,False,,Public,AUS-WA
+2028-03-13,Canberra Day,Canberra Day,AU,False,False,,Public,AUS-ACT
+2028-03-13,March Public Holiday,March Public Holiday,AU,False,False,,Public,AUS-SA
+2028-03-13,Eight Hours Day,Eight Hours Day,AU,False,False,,Public,AUS-TAS
+2028-03-13,Labour Day,Labour Day,AU,False,False,,Public,AUS-VIC
+2028-04-14,Good Friday,Good Friday,AU,False,True,,Public,
+2028-04-15,Easter Eve,Holy Saturday,AU,False,False,,Public,"AUS-ACT,AUS-NSW,AUS-NT,AUS-QLD,AUS-SA,AUS-VIC"
+2028-04-16,Easter Sunday,Easter Sunday,AU,False,False,,Public,"AUS-ACT,AUS-NSW,AUS-VIC"
+2028-04-17,Easter Monday,Easter Monday,AU,False,True,,Public,
+2028-04-25,Anzac Day,Anzac Day,AU,True,True,,Public,
+2028-05-01,May Day,May Day,AU,False,False,,Public,AUS-NT
+2028-05-01,Labour Day,Labour Day,AU,False,False,,Public,AUS-QLD
+2028-05-29,Reconciliation Day,Reconciliation Day,AU,False,False,2018,Public,AUS-ACT
+2028-06-05,Western Australia Day,Western Australia Day,AU,False,False,,Public,AUS-WA
+2028-06-12,Queen's Birthday,Queen's Birthday,AU,False,False,,Public,"AUS-ACT,AUS-NSW,AUS-NT,AUS-SA,AUS-TAS,AUS-VIC"
+2028-08-07,Picnic Day,Picnic Day,AU,False,False,,Public,AUS-NT
+2028-10-02,Labour Day,Labour Day,AU,False,False,,Public,"AUS-ACT,AUS-NSW,AUS-SA"
+2028-12-25,Christmas Day,Christmas Day,AU,True,True,,Public,
+2028-12-26,Boxing Day,St. Stephen's Day,AU,False,True,,Public,
